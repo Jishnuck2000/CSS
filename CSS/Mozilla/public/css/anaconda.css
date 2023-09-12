@@ -1,0 +1,128 @@
+.im1{
+float: right;
+margin-top: 150px;
+height: 1000px;
+width: 1000px;
+
+    
+}
+
+li{
+
+    float: left;
+    display: block;
+    margin-top: 16px;
+    padding-left: 26px;
+    margin-left: 3px;
+    margin-bottom: 600px;
+}
+
+.nav{
+    height: 100px;
+    
+
+    list-style-type: none;
+    display: block;
+    float: left;
+    color: aliceblue;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding-bottom: -70px;
+    font-weight: 700;
+}
+
+#im{
+
+    
+
+    padding-left: 42px;
+    height: 43px;
+    width: 209px;
+    float: left;
+    margin-left: 55px;
+    margin-top: 22px;
+    border-right: 1px ;
+}
+    
+.heading{
+   
+    font-size: 80px;
+    color: aliceblue;
+    padding-top: 150px;
+    float: left;
+    margin-left:-650px;
+
+
+}
+
+.para{
+
+    font-size: 30px;
+    color: aliceblue;
+    
+    padding-top: 500px;
+
+    
+}
+
+.button{
+
+    height: 60px;
+    width:260px;
+    font-size: 20px;
+    color: aliceblue;
+    background-color:rgb(20, 197, 129);
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+#test{
+    padding-left: 100px;
+}
+#pp{
+    color: white;
+    font-size: 25px;
+    padding-top: 400px;
+    padding-left: 43px;
+}
+#button{
+margin-left: 140px;
+
+}
+
+.link1{
+
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+
+}
+
+a:hover{
+
+    color: rgb(52, 184, 0);
+    text-decoration:underline;
+}
+
+.link3{
+
+    color: aliceblue;
+    text-decoration: none;
+    padding-left: 410px;
+}
+
+.logo1{
+
+    padding-left: 410px;
+
+   
+}
+
+.logo2{
+
+    padding-left: 20px;
+}
